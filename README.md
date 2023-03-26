@@ -1,2 +1,2 @@
 # first-repo
-this is my first repository
+this is my first repository. # To improve is to change.
